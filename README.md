@@ -3,3 +3,4 @@
 # Was passiert jetzt? Geht die Arbeit von ebody an der readme Datei verloren?
 # Diese Zeile füge ich ein, nachdem ebody das das Repository geklont hat
 # ebody fügt diese Zeile ein.
+# drhippert fügt eine neue Zeile in die readme
