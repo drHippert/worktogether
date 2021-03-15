@@ -11,3 +11,4 @@
 # Require status checks to pass before merging jetzt aktiviert.
 # useHttpPath = true, jetzt müsste ich mich einloggen
 # als drhippert ausgeloggt
+# drhippert aus Anmeldeinformationsverwaltung entfernt
