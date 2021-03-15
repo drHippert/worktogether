@@ -10,3 +10,4 @@
 # Der Branch war nicht geschützt, jetzt aber. Ich pushe einen neuen commit als rene, der nicht als collaborator gelistet ist.
 # Require status checks to pass before merging jetzt aktiviert.
 # useHttpPath = true, jetzt müsste ich mich einloggen
+# als drhippert ausgeloggt
