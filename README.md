@@ -8,3 +8,4 @@
 # Kann ich meinen Commit jetzt direkt auf Github hinzufügen oder wird es erst geprüft werden müssen? Es sollte letzteres sein.
 # War es aber nicht. Änderungen wurden direkt in die readme eingetragen.
 # Der Branch war nicht geschützt, jetzt aber. Ich pushe einen neuen commit als rene, der nicht als collaborator gelistet ist.
+# Require status checks to pass before merging jetzt aktiviert.
