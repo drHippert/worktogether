@@ -4,3 +4,5 @@
 # Diese Zeile füge ich ein, nachdem ebody das das Repository geklont hat
 # ebody fügt diese Zeile ein.
 # drhippert fügt eine neue Zeile in die readme
+# Im Repo auf meinem PC habe ich den User in der Konfigurationsdatei geändert auf rene.... Dieser ist nicht als Contributor gelistet.
+# Kann ich meinen Commit jetzt direkt auf Github hinzufügen oder wird es erst geprüft werden müssen? Es sollte letzteres sein.
