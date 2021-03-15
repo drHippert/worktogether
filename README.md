@@ -12,3 +12,4 @@
 # useHttpPath = true, jetzt müsste ich mich einloggen
 # als drhippert ausgeloggt
 # drhippert aus Anmeldeinformationsverwaltung entfernt
+# Branch Schutzregeln entfernt
