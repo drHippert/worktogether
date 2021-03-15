@@ -16,3 +16,4 @@
 # rene wurde als contributor zu drhippert worktogether hinzugefügt
 # test
 # useHttpPath = true, dafür helper = manager-core
+# ausgeloggt 
